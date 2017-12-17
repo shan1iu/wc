@@ -1,2 +1,2 @@
-# wc
-Implement linux command wc using Python 
+## wc
+Implement linux command wc using Python.
